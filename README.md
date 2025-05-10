@@ -32,7 +32,7 @@ This is a demo version intended to showcase core functionality; not all features
 
 | Email Verification | Reset Password | Sign Up | Log In |
 |:------------------:|:--------------:|:------:|:-----:|
-| ![Email Verification](screenshots/email-verification-changepw.png) | ![Reset Password](screenshots/resetpw.png) | ![Sign Up](screenshots/sign-up.png) | ![Log In](screenshots/log-in.png) |
+| ![Email Verification](screenshots/email-verification:changepw.png) | ![Reset Password](screenshots/resetpw.png) | ![Sign Up](screenshots/sign-up.png) | ![Log In](screenshots/log-in.png) |
 
 | Home | Events | Profile | QR Code |
 |:----:|:------:|:-------:|:------:|
